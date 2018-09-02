@@ -370,7 +370,7 @@ background-color: transparent;
 
 .contextMenu-HLZMGh{
 	background: rgba(0,0,0,0.7) !important;
-	position: absolute;
+	position: fixed;
 }
 
 .theme-dark .itemSubMenu-1vN_Yn{
@@ -399,7 +399,7 @@ background-color: transparent;
 
 /* tool tips */
 .bd-blue .tooltip{
-	background:rgb(0,0,0);
+	background:rgba(0,0,0,0);
 }
 
 /* member info */
@@ -635,7 +635,7 @@ background-color: transparent;
 	background-color: rgba(10,40,100,1);
 }
 
-/* Mention Aliases Plugin
+/* Mention Aliases Plugin */
 
 .botTag-2WPJ74{
 	margin-left:5px;
@@ -664,7 +664,7 @@ background-color: transparent;
 	cursor: pointer;
 	transition: all 0.3s;
 }
-*/
+
 
 /* MessageUtilities Plugin
 
@@ -815,7 +815,7 @@ background-color: transparent;
 	box-shadow: 0 0 0 1px rgba(0,0,0,.6), 0 2px 10px 0 rgba(0,0,0,0.2);
 }
 
-/* Notes Plugin
+/* Pinned Messages */
 .theme-dark .messagesPopoutWrap-1MQ1bW .header-ykumBX{
 	background: rgba(0,0,0,0);
 }
@@ -858,7 +858,6 @@ background-color: transparent;
 	background-color: rgba(255,255,255,0.1);
 	color: white;
 }
-*/
 
 /* Markup */
 .theme-dark .markup-2BOw-j pre {
@@ -1038,6 +1037,7 @@ background-color: transparent;
 }
 
 /* This adjusts the members column for the Members Count plugin
+
 .membersWrap-2h-GB4 .members-1998pB{
 	margin-top: 40px !important;
 }
