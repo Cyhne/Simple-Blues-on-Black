@@ -17,4 +17,4 @@ Here's a screenshot
 - BetterFriendCount
 
 2. Changelog:
-V 0.0.0.1 Made the theme
+- 0.0.0.1 Made the theme
