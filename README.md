@@ -4,7 +4,7 @@ A simple black and grey striped background with a few blue highlights and transi
 Here's a screenshot
 ![alt text](https://i.imgur.com/uqrxrbO.png)
 
-1. There are some plugins that this theme directly affects:
+1. There are some plugins that this theme can directly affect:
 - Mention Aliases
 - MessageUtilities
 - Old Titlebar
