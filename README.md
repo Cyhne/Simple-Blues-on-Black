@@ -2,7 +2,7 @@
 A simple black and grey striped background with a few blue highlights and transitions
 
 Here's a screenshot
-![alt text](https://github.com/Cyhne/Simple-Blues-on-Black/blob/master/Screenshot%20(97).png?raw=true)
+![alt text](https://i.imgur.com/uqrxrbO.png)
 
 1. There are some plugins that this theme directly affects:
 - Mention Aliases
