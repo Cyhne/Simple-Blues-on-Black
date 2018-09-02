@@ -635,7 +635,7 @@ background-color: transparent;
 	background-color: rgba(10,40,100,1);
 }
 
-/* Mention Aliases Plugin */
+/* Mention Aliases Plugin
 
 .botTag-2WPJ74{
 	margin-left:5px;
@@ -664,7 +664,7 @@ background-color: transparent;
 	cursor: pointer;
 	transition: all 0.3s;
 }
-
+ */
 
 /* MessageUtilities Plugin
 
@@ -997,10 +997,14 @@ background-color: transparent;
                                                              
 */
 
-/* Member Count */
+/* Member Count Plugin 
 .theme-dark #memberCount{
-	background: rgba(0,0,0,0.6) !important;
+	color: rgba(255,255,255,0.4);
+	background: rgba(0,0,0,0);
+	border-bottom: solid 1px rgba(255,255,255,0.1);
+	height: 35px;
 }
+*/
 
 /* Member Area */
 .theme-dark .membersGroup-v9BXpm{
@@ -1027,13 +1031,6 @@ background-color: transparent;
 	background: rgba(0,0,0,0.2);
 	color: white;
 
-}
-
-.theme-dark #memberCount{
-	color: rgba(255,255,255,0.4);
-	background: rgba(0,0,0,0);
-	border-bottom: solid 1px rgba(255,255,255,0.1);
-	height: 35px;
 }
 
 /* This adjusts the members column for the Members Count plugin
