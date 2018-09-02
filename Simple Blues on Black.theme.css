@@ -103,27 +103,9 @@
 
 */
 
-/* This is a personal font */
-@font-face{
-	font-family: 'Borda Medium';
-	src: url(C:\Users\Cyhne\Desktop\Borda\Borda Medium.ttf) format("truetype");
-}
-
-@font-face{
-	font-family: 'Borda';
-	src: url(C:\Users\Cyhne\Desktop\Borda\Borda ExtraBold.ttf) format("truetype");
-	font-weight: bold;
-}
-
-@font-face{
-	font-family: 'Borda';
-	src: url(C:\Users\Cyhne\Desktop\Borda\Borda Medium Italic.ttf) format("truetype");
-	font-weight: oblique;
-}
-
 /* set fonts here */
 div>*:not(code) {
-	font-family: 'Borda Medium'!important;
+	font-family: 'Times New Roman'!important;
 }
 
 textarea {
